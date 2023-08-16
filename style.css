@@ -297,7 +297,11 @@ body {
 
 
 }
+.menu-line{
 
+display: none;
+
+}
 
 .menu-bar-icon-list li {
 
@@ -309,7 +313,11 @@ body {
 }
 
 
-.hero {}
+.hero {
+
+
+    
+}
 
 .hero-h1-padding {
     padding-top: 100px;
@@ -341,7 +349,7 @@ body {
 
 
     list-style-type: none;
-
+padding-bottom: 200px;
 
 }
 
@@ -412,7 +420,7 @@ body {
 .hero-2nd-row {
 
     position: relative;
-    top: 100px;
+    top: -150px;
 
 }
 
@@ -952,7 +960,7 @@ padding-bottom: 40px;
 
 }
 
-@media  (max-device-width: 600px) {
+@media  (max-device-width:600px) {
     .col-md-1 {
 
         width: 100%;
@@ -1045,4 +1053,327 @@ padding-bottom: 40px;
 
 
     }
+
+    .menu-line{
+text-align: center;
+display: block;
+padding-left: 350px;
+margin-top: -50px;
+
+    }
+
+    .basket-icon{
+
+display: none;
+
+
+    }
+
+
+   
+
+    .card-2-featured {
+
+margin-left: 0px;
+
+
+
+    }
+    .card-2nd-img{
+
+position: relative;
+left: -50px;
+padding-top: 30px;
+padding-bottom: 30px;
+
+    }
+
+    .menu-bar-list{
+
+display: none;
+
+    }
+    
+
+    .header-2nd-logo-list{
+
+display: none;
+
+
+
+    }
+
+    .top-bar{
+
+display: none;
+
+    }
+
+   
+   
+
+
+    .container{
+
+
+        width: 100%;
+    }
+
+
+
+    .second-hero-padding {
+        margin-left: 10px;
+    }
+
+    .text-center-mobile-responsive{
+
+text-align: center;
+
+    }
+
+
+
+    .teachers-cards {
+        border-radius: 10px;
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+
+
+    .testimonial-img-padding {
+        padding-top: 10px;
+         padding-left: 0px;
+    }
+
+
+    .news-row-2 {
+         padding-left: 0px;
+        padding-bottom: 40px;
+    }
+
+
+    .news-2-img-padding {
+        border-radius: 10px;
+         margin-left: 0px; 
+    }
+
+    .hero-para-padding {
+        padding-left: 40px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: small;
+        color:white;
+        
+    }
+
+
+
+    .hero-2nd-row {
+
+        position: relative;
+        top: 0px;
+    
+    }
+
+
+    .hero-2nd-row {
+        background-color: #07294D;
+         margin-left: 0px; 
+        border-radius: 0px;
+        padding-left: 40px;
+        color: white;
+        padding-top: 30px;
+        padding-bottom: 30px;
+         margin-right: 0px; 
+    }
+
+
+    .hero-card-row {
+         padding-left: 0px; 
+       
+    }
+
+
+
+    .hero-btn-list {
+        list-style-type: none;
+        padding-bottom: 30px;
+    }
+    .header-list {
+        list-style-type: none;
+        padding-left: 0%;
+    }
+    .padding-top-hero {
+        margin-top: 0px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+
+    .p-cards {
+        padding-right: 40px;
+    }
+
+    .hero-h1-padding {
+      
+        padding-left: 40px;
+        padding-right: 40px;
 }
+.hero-para-padding {
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.padding-around {
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+
+.header-list {
+    list-style-type: none;
+    padding-left: 0%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.menu-line {
+    text-align: center; 
+    display: block;
+    padding-left: 310px;
+    margin-top: -40px;
+}
+
+
+.hero-2nd-row-h1 {
+     padding-top: 0px; 
+
+}
+
+.top-gap-between-cards{
+
+
+    padding-top: 30px;
+   
+
+}
+
+
+
+.gap-bottom {
+
+
+
+    padding-bottom: 30px;
+
+
+}
+.second-hero-h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+
+.news-p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    ;
+}
+
+
+.testimonial-row {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+  .news-h3{
+
+
+  }
+  .news-img-time {
+    color: grey;
+  
+}
+.testimonial-2row {
+    padding-top: 20px;
+}
+.testimonial-h2-padding {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+     padding-left: 0px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+} 
+.apply-p-padding{
+
+
+    padding-left: 40px;
+    padding-right: 40px;
+    word-spacing: 5px;
+}
+
+.apply-h1-padding{
+
+    padding-top: 40px;
+
+
+}
+
+.second-hero-background {
+
+
+    padding-left: 40px;
+    margin-top: 0px;
+}
+.hero-2-card-h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    
+}
+
+
+.second-hero-list li {
+    display: inline-block;
+    padding-left: 0px
+}
+
+.news-1-img{
+
+
+margin-left: 40px;
+margin-right: 40px;
+
+
+
+}
+
+.news-p1-padding {
+    padding-left: 50px;
+
+    padding-right: 40px;
+}
+.footer-logo-padding{
+
+padding-left: 30px;
+
+}
+
+
+.About-p {
+    
+    padding-top: 30px;
+}
+
+.hero-2nd-row-h1 {
+    padding-top: 0px;
+    font-size: xxx-large;
+}
+
+}
+
+
+
+
+
